@@ -2,6 +2,6 @@
   "Settings": {
     "BrowserName": "Chrome",
     "StartUrl": "https://steelseries.com/",
-    "TimeoutSeconds": 5000
+    "TimeoutSeconds": 5
   }
 }

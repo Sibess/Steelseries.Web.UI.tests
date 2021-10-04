@@ -1,5 +1,6 @@
 ﻿using OpenQA.Selenium;
 using SeleniumExtras.PageObjects;
+using SeleniumExtras.WaitHelpers;
 using System;
 
 namespace Steelseries.Web.UI.tests.PageObjects
@@ -23,6 +24,7 @@ namespace Steelseries.Web.UI.tests.PageObjects
 
         public bool IsVideoPlaying()
         {
+            Wait.Until(ExpectedConditions.ElementIsVisible(By.XPath("//*[@class='html5-video-player ytp-exp-bottom-control-flexbox ytp-title-enable-channel-logo ytp-embed ytp-embed-playlist ytp-large-width-mode playing-mode ytp-autohide']")));
             return IsElementDisplayed(By.XPath("//*[@class='html5-video-player ytp-exp-bottom-control-flexbox ytp-title-enable-channel-logo ytp-embed ytp-embed-playlist ytp-large-width-mode playing-mode ytp-autohide']"), "Youtube playing mode");
         }
     }

@@ -107,3 +107,6 @@ C:\Users\Siarhei\Desktop\C# automation learingin\EDU\repos\Steelseries.Web.UI.te
 C:\Users\Siarhei\Desktop\C# automation learingin\EDU\repos\Steelseries.Web.UI.tests\Steelseries.Web.UI.tests\obj\Debug\netcoreapp3.1\Steelseries.Web.UI.tests.pdb
 C:\Users\Siarhei\Desktop\C# automation learingin\EDU\repos\Steelseries.Web.UI.tests\Steelseries.Web.UI.tests\obj\Debug\netcoreapp3.1\Steelseries.Web.UI.tests.genruntimeconfig.cache
 C:\Users\Siarhei\Desktop\C# automation learingin\EDU\repos\Steelseries.Web.UI.tests\Steelseries.Web.UI.tests\bin\Debug\netcoreapp3.1\SeleniumExtras.WaitHelpers.dll
+C:\Users\Siarhei\Desktop\C# automation learingin\EDU\repos\Steelseries.Web.UI.tests\Steelseries.Web.UI.tests\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\Siarhei\Desktop\C# automation learingin\EDU\repos\Steelseries.Web.UI.tests\Steelseries.Web.UI.tests\bin\Debug\netcoreapp3.1\NLog.config
+C:\Users\Siarhei\Desktop\C# automation learingin\EDU\repos\Steelseries.Web.UI.tests\Steelseries.Web.UI.tests\obj\Debug\netcoreapp3.1\Steelseries.Web.UI.tests.csproj.CoreCompileInputs.cache

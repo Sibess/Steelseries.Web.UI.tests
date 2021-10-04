@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "AkDZ4pbUfv4U/V8+V1AyXBa6z5VKj2yUdFe6cmmd5FslOoCXmD0Y+zk4Vj/Gb87OWCw4ujGGnj2PU8/J9181uA==",
+  "dgSpecHash": "Vbh135QJ5a3XS3fuUP3DeTIVqbb6jTl5YAbYTfiyJwTmRagZ6txZMlhv4PZs8rZnri4cQV6QaD8J8XWC8pDnQw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Siarhei\\Desktop\\C# automation learingin\\EDU\\repos\\Steelseries.Web.UI.tests\\Steelseries.Web.UI.tests\\Steelseries.Web.UI.tests.csproj",
   "expectedPackageFiles": [
@@ -27,6 +27,8 @@
     "C:\\Users\\Siarhei\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
     "C:\\Users\\Siarhei\\.nuget\\packages\\newtonsoft.json\\10.0.3\\newtonsoft.json.10.0.3.nupkg.sha512",
     "C:\\Users\\Siarhei\\.nuget\\packages\\nlog\\4.7.11\\nlog.4.7.11.nupkg.sha512",
+    "C:\\Users\\Siarhei\\.nuget\\packages\\nlog.config\\4.7.11\\nlog.config.4.7.11.nupkg.sha512",
+    "C:\\Users\\Siarhei\\.nuget\\packages\\nlog.schema\\4.7.11\\nlog.schema.4.7.11.nupkg.sha512",
     "C:\\Users\\Siarhei\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
     "C:\\Users\\Siarhei\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
     "C:\\Users\\Siarhei\\.nuget\\packages\\nunit3testadapter\\3.15.1\\nunit3testadapter.3.15.1.nupkg.sha512",

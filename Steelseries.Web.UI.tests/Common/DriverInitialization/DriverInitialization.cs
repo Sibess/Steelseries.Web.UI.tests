@@ -27,13 +27,11 @@ namespace Steelseries.Web.UI.tests
                     chromeOptions.AddUserProfilePreference("download.directory_upgrade", true);
                     chromeOptions.AddUserProfilePreference("safebrowsing.enabled", true);
                     chromeOptions.AddArgument("no-sandbox");
-                    chromeOptions.AddArgument("lang=en");
                     driver = new ChromeDriver(chromeOptions);
                     break;
                 default:
                     throw new Exception($"{GlobalRunSettings.BrowserName} driver can not be initialized");
             }
-            driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(5);
             return driver;
         }
     }

@@ -9,10 +9,10 @@ namespace Steelseries.Web.UI.tests.PageObjects
         {
         }
 
-        [FindsBy(How = How.XPath, Using = "//div[@class='catalog-list']//div[1]//div[1]//div[1]//div[1]//div[1]//ul[1]//li[5]//a[1]")]
+        [FindsBy(How = How.XPath, Using = "//div[@class='faceted-product-list__list']//div[2]//div[1]//div[1]//div[1]//div[1]//ul[1]//li[5]//a[1]//div[1]")]
         private IWebElement MousePadSizeIcon { get; set; }
 
-        [FindsBy(How = How.XPath, Using = "//div[@class='catalog-list']//div[1]//div[1]//div[1]//div[1]//div[1]//ul[1]//li[5]//a[1]//div[1]")]
+        [FindsBy(How = How.XPath, Using = "//div[@class='faceted-product-list__list']//div[2]//div[1]//div[1]//div[1]//div[2]//button[2]")]
         private IWebElement ChevronRight { get; set; }
 
         [FindsBy(How = How.XPath, Using = "//a[@href='/gaming-mousepads/qck-prism-series?size=xl']//figure[@class='catalog-list-product__image ']//img")]
@@ -28,7 +28,7 @@ namespace Steelseries.Web.UI.tests.PageObjects
 
         public void ClickChevronRight()
         {
-            MoveToElement(ChevronRight, "Chevron right icon");
+            ClickElement(ChevronRight, "Chevron right icon");
         }
 
         public void HoverOverMousepadlItemIcon()
